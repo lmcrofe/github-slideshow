@@ -115,4 +115,4 @@ exclude: [
   "reveal.js/package.json"
 ]
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-architect
